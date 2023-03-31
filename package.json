@@ -1,0 +1,14 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Game: Heads or tails",
+  "main": "game.js",
+  "scripts": {
+    "dev": "node ./game.js text.txt"
+  },
+  "keywords": [
+    "app", "game"
+  ],
+  "author": "Diana Balaban",
+  "license": "ISC"
+}
